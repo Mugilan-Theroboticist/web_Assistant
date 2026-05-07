@@ -84,7 +84,7 @@ The assistant will start listening for voice commands.
 ## Project Structure 📂
 
 ```bash
-├── assistant.py
+├── web_assistant.py
 └── README.md
 ```
 
