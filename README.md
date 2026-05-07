@@ -34,7 +34,7 @@ A simple AI Voice Assistant built using Python that can recognize voice commands
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/Mugilan-Theroboticist/web_Assistant.git
 cd web_Assistant
 ```
 
